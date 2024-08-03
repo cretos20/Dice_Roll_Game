@@ -5,9 +5,7 @@
 Dice Roll Comparison Game is a simple web application built using JavaScript that simulates rolling two dice. It randomly generates numbers for each die, compares the results, and declares a winner or a tie if both dice show the same number. This project showcases core JavaScript functionalities including random number generation, comparison logic, and dynamic updates to the user interface.
 
 ## Demo Video
-- Demo Video
-      ```bash
-     https://drive.google.com/file/d/17eiLFsigjSpqpUr9S2xYa_HhO9dOP3TR/view?usp=sharing
+<a href="https://drive.google.com/file/d/17eiLFsigjSpqpUr9S2xYa_HhO9dOP3TR/view?usp=sharing">Demo link</a>
 
 ## Features
 
