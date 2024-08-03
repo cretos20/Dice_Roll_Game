@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/dice-roll-comparison-game.git
+   https://github.com/cretos20/Dice_Roll_Game.git
 2. **Navigate to the project directory:**
     ```bash
     cd Dice_Roll_Game
